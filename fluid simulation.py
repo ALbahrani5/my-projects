@@ -63,3 +63,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+## This code simulates fluid flow around a cylinder using the Lattice Boltzmann Method (LBM).
+## The simulation is visualized using Matplotlib, showing the velocity field of the fluid as it
